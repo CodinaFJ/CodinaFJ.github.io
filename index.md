@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Teaching is the best way to prove that you have correctly learned.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This blog is about teaching nobody about the stuff that I learn.
